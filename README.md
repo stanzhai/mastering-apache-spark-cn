@@ -1,2 +1,3 @@
-# mastering-apache-spark-cn
+# 掌握Spark
+
 《Mastering Apache Spark》中文版
